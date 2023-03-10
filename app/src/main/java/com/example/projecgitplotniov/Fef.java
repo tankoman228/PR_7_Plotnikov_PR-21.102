@@ -13,4 +13,11 @@ public class Fef {
             i += 8;
         }
     }
+
+    public static void debugHug() {
+        ay = 150+150;
+        for (int i = 0; i < 10; i+=4) {
+            i -= 1;
+        }
+    }
 }
